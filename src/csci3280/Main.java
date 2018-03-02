@@ -1,4 +1,4 @@
-package sample;
+package csci3280;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
